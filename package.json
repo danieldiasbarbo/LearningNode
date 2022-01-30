@@ -1,0 +1,22 @@
+{
+  "name": "learning-node-rest",
+  "version": "1.0.0",
+  "description": "first project in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldiasbarbo/LearningNode.git"
+  },
+  "author": "Daniel Dias Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldiasbarbo/LearningNode/issues"
+  },
+  "homepage": "https://github.com/danieldiasbarbo/LearningNode#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
